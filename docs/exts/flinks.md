@@ -161,7 +161,7 @@ title: 我的朋友们 # 可选，这是友链页的标题
 #### 步骤
 
 1. 前提你已经配置好了butterfly的link页面，如果没有你可以先`hexo new page links`, 如果还想保留butterfly原样式你可保留link页面`index.md`=>front-matter中的`type: "link"`, 根据个人情况开启`comments: false`
-2. 作者使用了，[Bulma框架](https://bulma.io/)所以css有点不太好搞，如果你使用不加css的友链申请感觉还是有些不美观的，样式大概就像这样![](https://gitcode.net/m0_55338218/apursuer-pics/-/raw/master/pictures/2023/05/13_20_27_45_202305132027788.png)使用了css后是这样的[样式](https://iam.apursuer.com/link).![](https://gitcode.net/m0_55338218/apursuer-pics/-/raw/master/pictures/2023/05/13_20_53_52_202305132053778.png)
+2. 作者使用了，[Bulma框架](https://bulma.io/)所以css有点不太好搞，如果你使用不加css的友链申请感觉还是有些不美观的，样式大概就像这样使用了css后是这样的[样式](https://iam.apursuer.com/link).
 3. 有能力的可以自己修改一下css样式和HTML代码，个人的css样式是仿作者的友链界面~~抄的~~写的，respect
 4. 想要让友链申请生效，请先打开qexo=>设置=>API配置=>启用友链申请API=>是，如果使用reCaptcha可以自己配置一下，也相对来说比较简单
 5. 话不多说，上代码，个人网站是英文网站所以是英文（英文用Ctrl+F替换一下就行），可以根据自己的需求修改代码

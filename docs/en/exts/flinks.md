@@ -160,7 +160,7 @@ Friend link application page: [Application Page HTML](https://unpkg.com/browse/q
 #### Steps
 
 1. Ensure you have configured the Butterfly link page. If not, create it with `hexo new page links`. To retain the Butterfly style, keep the `index.md` file with `type: "link"` and adjust `comments: false` as needed.
-2. The author used the [Bulma framework](https://bulma.io/), so CSS might be tricky. The style is like this [without CSS](https://gitcode.net/m0_55338218/apursuer-pics/-/raw/master/pictures/2023/05/13_20_27_45_202305132027788.png) and [with CSS](https://iam.apursuer.com/link).![](https://gitcode.net/m0_55338218/apursuer-pics/-/raw/master/pictures/2023/05/13_20_53_52_202305132053778.png)
+2. The author used the [Bulma framework](https://bulma.io/), so CSS might be tricky. The style is like this without CSS and [with CSS](https://iam.apursuer.com/link).
 3. You can modify CSS styles and HTML code according to your needs.
 4. To enable the friend link application, go to Qexo => Settings => API Configuration => Enable Friend Link Application API => Yes. Configure reCaptcha if needed.
 
