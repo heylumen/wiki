@@ -78,7 +78,7 @@ export default defineConfig({
       lang: "zh-CN",
       link: "/",
       title: "Qexo 文档",
-      description: "一个快速、强大、漂亮的在线 静态博客 管理器",
+      description: "一个快速、强大、漂亮的在线静态博客管理器",
       themeConfig: {
         sidebar: [
           {
@@ -125,7 +125,7 @@ export default defineConfig({
           },
         ],
         nav: [
-          { text: "快速上手", link: "/start.html" },
+          { text: "快速上手", link: "/start" },
           {
             text: "Public API",
             link: "/dev/api",
@@ -190,7 +190,7 @@ export default defineConfig({
           },
         ],
         nav: [
-          { text: "Quick Start", link: "/en/start.html" },
+          { text: "Quick Start", link: "/en/start" },
           {
             text: "Public API",
             link: "/en/dev/api",
