@@ -2,7 +2,7 @@
 
 This tutorial will guide you through integrating a friend link system into your blog using Qexo in just a few minutes.
 
-![](https://s2.loli.net/2024/07/19/NKhuBMOeTqlHYc7.png)
+![](/images/NKhuBMOeTqlHYc7.png)
 
 ## Prerequisites
 

@@ -22,7 +22,7 @@ Parameter name for the image file in the API for image uploads
 image
 ```
 
-![](https://s2.loli.net/2024/07/19/9IJXAxzrCcKvs3Y.png)
+![](/images/9IJXAxzrCcKvs3Y.png)
 
 ### JSON Path
 

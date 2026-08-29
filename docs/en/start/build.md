@@ -134,7 +134,7 @@ Qexo now supports using MongoDB as the database. Note that the new version chang
 ### Apply for MongoDB Database
 
 [Register a MongoDB account](https://www.mongodb.com/cloud/atlas/register) to create a free MongoDB database. The region **must be AWS / N. Virginia (us-east-1)**. Click CONNECT on the Clusters page, follow the steps to allow connections from all IP addresses, create a database user, and record the database connection information. The password is the value you set.
-![](https://s2.loli.net/2024/07/19/9axCOdNGJWUIqQ7.png)
+![](/images/9axCOdNGJWUIqQ7.png)
 
 ### One-click Deployment
 

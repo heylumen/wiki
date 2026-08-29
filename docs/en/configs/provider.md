@@ -45,7 +45,7 @@ master
 
 Token generated at [GitHub Settings](https://github.com/settings/tokens) (Classical recommended)
 Requires Contents and Workflow permissions, both set to Read and write (do not provide all permissions)
-![GitHub Token permission settings](https://s3.bmp.ovh/2026/07/13/ao0KsmAq.png)
+![GitHub Token permission settings](/images/ao0KsmAq.png)
 
 ```
 wrq_P8sYPlYA9fjMlOPEYSKA84xxxxxxxxxxxxxx

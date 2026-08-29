@@ -1,7 +1,7 @@
 # 接入说说
 
 从2.1.0版本开始, Qexo对说说进行了支持, 你可以参考这个教程为你的博客快速接入说说
-![](https://s2.loli.net/2024/07/19/NoIL6QzSVj58HYD.png)
+![](/images/NoIL6QzSVj58HYD.png)
 
 ## 添加说说
 

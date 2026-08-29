@@ -1,7 +1,7 @@
 # 快速开始
 
 **Qexo** 是一个快速、强大、美观的在线 **静态博客编辑器**。使用 GPL3.0 **开源**协议。支持包括且不限于在 **Vercel** 等平台部署, 为您的静态博客添加**动态**的元素
-![](https://s2.loli.net/2024/07/19/r1XJPHnYANKbcRl.png)
+![](/images/r1XJPHnYANKbcRl.png)
 
 ## 特色功能
 
@@ -10,7 +10,7 @@
   3.0版本的 Qexo 重新设计了文章编辑页面, 您可以更优雅地进行文章编辑
 
   支持多种图床上传, 上传尽在弹指之间
-  ![](https://s2.loli.net/2024/07/19/q3LlJutFDCvpbMh.png)
+  ![](/images/q3LlJutFDCvpbMh.png)
 - **缓存功能~速度至上**
 
   支持将文章、页面、配置索引一键缓存至数据库, 保证您的高速访问

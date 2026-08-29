@@ -209,7 +209,7 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/qexo/wiki/edit/master/docs/:path'
     },
-    logo: { src: 'https://s2.loli.net/2024/08/25/hdaM2IVuRCoPw3L.png', width: 24, height: 24 },
+    logo: { src: '/images/hdaM2IVuRCoPw3L.png', width: 24, height: 24 },
     footer: {
       message: 'Released under the GPL3.0 License.',
       copyright: 'Copyright © 2021-present Abudu'

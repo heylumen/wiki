@@ -2,7 +2,7 @@
 
 Starting from version 2.1.0, Qexo supports Qexo Talks (a social status update feature). This tutorial will guide you through integrating Qexo Talks into your blog.
 
-![](https://s2.loli.net/2024/07/19/NoIL6QzSVj58HYD.png)
+![](/images/NoIL6QzSVj58HYD.png)
 
 ## Adding Qexo Talks
 

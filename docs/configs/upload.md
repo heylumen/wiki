@@ -22,7 +22,7 @@ https://7bu.top/api/upload
 image
 ```
 
-![](https://s2.loli.net/2024/07/19/9IJXAxzrCcKvs3Y.png)
+![](/images/9IJXAxzrCcKvs3Y.png)
 
 ### JSON 路径
 

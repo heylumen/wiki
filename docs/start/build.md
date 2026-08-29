@@ -135,7 +135,7 @@ services:
 ### 申请 MongoDB 数据库
 
 [注册 MongoDB 账号](https://www.mongodb.com/cloud/atlas/register) 创建免费 MongoDB 数据库, 区域**一定要选择 AWS / N. Virginia (us-east-1)** 在 Clusters 页面点击 CONNECT, 按步骤设置允许所有 IP 地址的连接）, 创建数据库用户, 并记录数据库连接信息, 密码即为你所设置的值
-![](https://s2.loli.net/2024/07/19/9axCOdNGJWUIqQ7.png)
+![](/images/9axCOdNGJWUIqQ7.png)
 
 ### 一键部署
 

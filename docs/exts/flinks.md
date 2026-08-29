@@ -1,7 +1,7 @@
 # 友情链接
 
 这个教程将帮助你在几分钟内利用 Qexo 为博客接入友链系统
-![](https://s2.loli.net/2024/07/19/NKhuBMOeTqlHYc7.png)
+![](/images/NKhuBMOeTqlHYc7.png)
 
 ## 须知
 
