@@ -1,0 +1,1 @@
+{"rewrites": [{"source": "/qexo/(.*)", "destination": "/$1"}]}
